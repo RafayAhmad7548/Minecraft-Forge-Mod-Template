@@ -1,0 +1,7 @@
+Java Launcher: /usr/lib/jvm/java-17-openjdk-amd64/bin/java
+Arguments: '--inJar, /home/rafayahmad/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-injected.jar, --outJar, /home/rafayahmad/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.20_mapped_official_1.20.1/forge-1.20.1-47.2.20_mapped_official_1.20.1.jar, --logFile, accesstransform.log, --atFile, /home/rafayahmad/Stuff/Coding/Java/Minecraft Modding/First Mod/build/_atJar_5/parent_at.cfg'
+Classpath:
+ - /home/rafayahmad/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
+Working directory: /home/rafayahmad/Stuff/Coding/Java/Minecraft Modding/First Mod/build/_atJar_5
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
